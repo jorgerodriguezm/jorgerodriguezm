@@ -9,19 +9,19 @@ I'm interested in Artificial Intelligence, Data Science, Machine and Deep Learni
 
 ## Here are the projects I have worked on: 
 - 👁‍🗨 Computer Vision
-  - [Cotton Disease Detection](https://github.com/jorgerodriguezm/CottonDiseaseDetection)
+  - [Cotton Disease Detection](https://github.com/jorgerodriguezm/CottonDiseaseDetection) [Accuracy: 0.94]
 - 🤖 IoT and Regression
-  - [Heart Rate Prediction - IBM Maratona Behind the Code 2021](https://github.com/jorgerodriguezm/HeartRatePredictionQuanam)
+  - [Heart Rate Prediction](https://github.com/jorgerodriguezm/HeartRatePredictionQuanam) [21st Place - IBM Maratona Behind the Code 2021]
 - 📈 Regression 
-  - [Building a Top Striker in FIFA 10](https://github.com/jorgerodriguezm/BuildingATopStrikerInFIFA19)
+  - [Building a Top Striker in FIFA 10](https://github.com/jorgerodriguezm/BuildingATopStrikerInFIFA19) [R^2 Score: 0.86]
 - 🏷 Classification
-  - [Loan Risk Prediction - IBM Maratona Behind the Code 2021](https://github.com/jorgerodriguezm/LoanRiskPredictionBantotal)
-  - [Churn Prediction - IBM Maratona Behind the Code 2021](https://github.com/jorgerodriguezm/ChurnPredictionIBMAutoAI)
-  - [Lower Back Pain Classification](https://github.com/jorgerodriguezm/LowerBackPainClassification)
+  - [Loan Risk Prediction](https://github.com/jorgerodriguezm/LoanRiskPredictionBantotal) [54th Place - IBM Maratona Behind the Code 2021]
+  - [Churn Prediction](https://github.com/jorgerodriguezm/ChurnPredictionIBMAutoAI) [124th Place - IBM Maratona Behind the Code 2021]
+  - [Lower Back Pain Classification](https://github.com/jorgerodriguezm/LowerBackPainClassification) [F1-Score: 0.86]
 - 💬 Chatbot
-  - [Algar Tech Support Bot - IBM Maratona Behind the Code 202](https://github.com/jorgerodriguezm/TechSupportChatBot)
+  - [Algar Tech Support Bot](https://github.com/jorgerodriguezm/TechSupportChatBot) [114th Place - IBM Maratona Behind the Code 202]
 - ⚒ Data Mining
-  - [Financial Product Recommendation with Association Rules - IBM Maratona Behind the Code 2021](https://github.com/jorgerodriguezm/FinancialProductRecommendationsAssociationRules)
+  - [Financial Product Recommendations](https://github.com/jorgerodriguezm/FinancialProductRecommendationsAssociationRules) [98th Place - IBM Maratona Behind the Code 2021]
 - 📊 Marketing Analysis
   - [Marketing Analytics with Google BigQuery](https://github.com/jorgerodriguezm/BlackFridayAnalytics)
 - 💠 Cluster Analysis
