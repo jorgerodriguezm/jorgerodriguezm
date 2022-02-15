@@ -5,9 +5,9 @@ I'm interested in Artificial Intelligence, Data Science, Machine and Deep Learni
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/jorgerodriguezm)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jorgerodriguezmartinez/)
 
-## Here is my [Data Science Portfolio](https://github.com/jorgerodriguezm/DataSciencePortfolio) 💼
+## 💼 Here is my [Data Science Portfolio](https://github.com/jorgerodriguezm/DataSciencePortfolio) 
 
-## Here are the projects I have worked on: 
+## 🔨 Here are the projects I have worked on: 
 - 👁‍🗨 Computer Vision
   - [Cotton Disease Detection](https://github.com/jorgerodriguezm/CottonDiseaseDetection) [Accuracy: 0.94]
 - 🤖 IoT and Regression
